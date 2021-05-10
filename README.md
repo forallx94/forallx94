@@ -1,6 +1,6 @@
 ### Hi there  👋
 
-I'm Jeong Yup, Lee , an AI developer from Republic of Korea, South Korea  I have a keen interest in deep learning research.
+I'm Jeong Yup, Lee , an AI developer from Republic of Korea, South Korea. I have a keen interest in deep learning research.
 
 
 - 🔭 I’m currently working on Images, Sequential Anomaly detection and NLP
