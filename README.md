@@ -19,6 +19,3 @@ I'm Jeong Yup, Lee , an AI developer from Republic of Korea, South Korea. I have
 ### Github status
 
 [![forallx94's GitHub stats](https://github-readme-stats.vercel.app/api?username=forallx94)](https://github.com/forallx94/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forallx94)](https://github.com/forallx94/github-readme-stats)
-
