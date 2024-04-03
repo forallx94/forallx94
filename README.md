@@ -1,9 +1,9 @@
 ### Hi there  👋
 
-I'm Jeong Yup, Lee , an AI developer from Republic of Korea, South Korea. I have a keen interest in deep learning research.
+I'm Jeong Yup, Lee , an AI developer from Republic of Korea, South Korea. I have a interest in deep learning research.
 
 
-- 🔭 I’m currently working on Images, Sequential Anomaly detection and NLP
+- 🔭 I’m currently working on Images Classification, Object Detection, and Image Generation
 - 💬 Ask me anything regarding my work, code and research [here](https://github.com/forallx94/forallx94/issues).
 - 📫 How to reach me: forallx94@gmail.com
 
