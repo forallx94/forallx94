@@ -7,11 +7,16 @@ I'm Jeong Yup, Lee , an AI developer from Republic of Korea, South Korea. I have
 - 💬 Ask me anything regarding my work, code and research [here](https://github.com/forallx94/forallx94/issues).
 - 📫 How to reach me: forallx94@gmail.com
 
+### My GitHub Stats
+[![Jaden's GitHub stats](https://github-readme-stats.vercel.app/api?username=forallx94&show_icons=true&theme=radical&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=forallx94&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Languages and Tools:
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Tensorflow" width="26px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
-<img align="left" alt="PyTorch" width="26px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-<img align="left" alt="Github" width="26px" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" />   
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)   
 
